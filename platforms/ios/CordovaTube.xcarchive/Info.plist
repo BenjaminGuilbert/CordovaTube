@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/CordovaTube.app</string>
+		<key>CFBundleIdentifier</key>
+		<string>fr.kumquats.cordovatude</string>
+		<key>CFBundleShortVersionString</key>
+		<string>1.0.0</string>
+		<key>CFBundleVersion</key>
+		<string>1.0.0</string>
+		<key>SigningIdentity</key>
+		<string>iPhone Developer: bentama@hotmail.fr (CYU4Z5N2UD)</string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2017-09-29T09:39:05Z</date>
+	<key>Name</key>
+	<string>CordovaTube</string>
+	<key>SchemeName</key>
+	<string>CordovaTube</string>
+</dict>
+</plist>
